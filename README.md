@@ -9,3 +9,6 @@ https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/taller%202/SGBD%
 
 # BD_2_02210131025_A_2023_TALLER_3:
 https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/Taller%203/30%20Consultas.pdf
+
+# BD_2_02210131025_A_2023_TALLER_4:
+https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/taller%204/BD%20Actualizada.pdf
