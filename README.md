@@ -18,3 +18,6 @@ https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/Taller%205/SGBD%
 
 # BD_2_02210131025_A_2023_TALLER_6:
 https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/Taller%206/Creacion%20de%20ususarios%20y%20privilegios.pptx
+
+# BD_2_02210131025_A_2023_TALLER_7: "Script universidad"
+https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/taller%207/Script%20UNIIVERSIDAD.pdf
