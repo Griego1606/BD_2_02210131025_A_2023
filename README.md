@@ -27,3 +27,6 @@ https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/Correcion%20Prev
 
 # BD_2_02210131025_A_2023_TALLER_9: "Taller de consultas _ universidad finalizado "
 https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/Taller%209/Avance_SGBD_JUAN%20CAMILO%20MALDONADO%20PACHECO.docx
+
+# BD_2_02210131025_A_2023_TALLER_10: "Taller de consultas _ EMPLEADOS _ TIENDA _ VENTAS "
+https://github.com/Griego1606/BD_2_02210131025_A_2023/blob/main/Taller%2010%20final/Base%20de%20datos%20VENTAS_TIENDA_EMPELADOS%20.docx
